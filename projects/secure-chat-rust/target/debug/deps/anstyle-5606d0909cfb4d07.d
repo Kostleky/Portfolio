@@ -1,0 +1,10 @@
+C:\Users\kostl\Documents\GitHub\rust_bootcamp\rust_03\target\debug\deps\anstyle-5606d0909cfb4d07.d: C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\lib.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\macros.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\color.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\effect.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\reset.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\style.rs
+
+C:\Users\kostl\Documents\GitHub\rust_bootcamp\rust_03\target\debug\deps\libanstyle-5606d0909cfb4d07.rmeta: C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\lib.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\macros.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\color.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\effect.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\reset.rs C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\style.rs
+
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\lib.rs:
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\macros.rs:
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\color.rs:
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\effect.rs:
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\reset.rs:
+C:\Users\kostl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.13\src\style.rs:
